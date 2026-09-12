@@ -1,0 +1,6 @@
+{
+  "name": "ArogyaConnect",
+  "description": "Public healthcare navigator for Kanyakumari district, Tamil Nadu — connecting care across Sub-Centres, PHCs, Rural Hospitals, and the District Hospital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
